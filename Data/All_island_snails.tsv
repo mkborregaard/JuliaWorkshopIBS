@@ -1,0 +1,57 @@
+Island	Archipelago	Area	LogArea	Elevation	Time	Time2	Snails	Endemic	SIE
+Pico	Azores	436	2.639	2351	0.25	0.06	38	15	0
+S. Jorge	Azores	246	2.391	1067	0.55	0.3	35	17	2
+Corvo	Azores	17	1.23	718	0.71	0.5	25	10	1
+Faial	Azores	173	2.238	1043	0.73	0.53	37	15	2
+Flores	Azores	143	2.155	913	2.16	4.67	36	25	11
+Graciosa	Azores	62	1.792	398	2.5	6.25	32	15	4
+Terceira	Azores	400	2.602	1020	3.52	12.39	39	19	3
+S.Miguel	Azores	750	2.875	1103	4.01	16.08	47	24	11
+S. Maria	Azores	97	1.987	587	8.12	65.93	46	28	22
+Hierro	Canary	278	2.444	2423	0.7	0.49	24	18	12
+La Palma	Canary	729	2.863	2425	1.5	2.25	36	29	18
+Gran Canaria	Canary	1532	3.185	1950	14.5	210.25	49	47	42
+Tenerife	Canary	2058	3.313	3711	8	64	74	66	59
+La Gomera	Canary	378	2.577	1484	12	144	66	60	53
+Lanzarote	Canary	796	2.901	670	16	256	24	21	13
+Fuertev.	Canary	1725	3.237	807	20	400	26	24	16
+Santa Fe	Galapagos	24.1	1.383	259	4.6	21.16	3	0	0
+Rabida	Galapagos	5	0.698	367	2.5	6.25	2	2	2
+Fernandina	Galapagos	642.5	2.808	1494	0.3	0.09	6	6	1
+Espanola	Galapagos	60.5	1.782	198	5.6	31.36	6	6	2
+Santiago	Galapagos	584.7	2.767	906	2.4	5.76	16	16	4
+Pinzon	Galapagos	18.2	1.259	458	2.7	7.29	7	7	4
+Floreana	Galapagos	172.5	2.237	640	3.3	10.89	21	21	7
+San Cristobal	Galapagos	528.1	2.723	715	6.3	39.69	23	23	8
+Isabela	Galapagos	4588	3.662	1707	0.7	0.49	31	31	18
+Santa Cruz	Galapagos	985.6	2.994	864	3.6	12.96	29	29	23
+Lanai	Hawaii	361	2.558	1026	2	4	58	58	31
+Kauai	Hawaii	1433	3.156	1598	4.7	22.09	127	127	100
+Molokai	Hawaii	676	2.83	1514	2	4	124	124	74
+Hawaii	Hawaii	10458	4.019	4205	0.6	0.36	128	128	92
+Maui	Hawaii	1888	3.276	3055	2	4	168	168	119
+Oahu	Hawaii	1574	3.197	1220	3	9	301	301	250
+Lisianski	Hawaii	1.7	0.23	12	23.4	547.56	1	1	0
+Laysan	Hawaii	4	0.602	12	20.7	428.49	2	2	0
+Necker	Hawaii	0.2	-0.699	84	11	121	1	1	0
+Nihoa	Hawaii	0.8	-0.097	275	7.3	53.29	2	2	0
+Upolu	Samoa	1125	3.051	1143	2.8	7.84	50	41	9
+Savai	Samoa	1717.6	3.235	1858	0.4	0.16	36	32	4
+Tutuila 	Samoa	143.9	2.158	653	1.53	2.34	34	24	6
+Tau	Samoa	45.7	1.66	965	0.4	0.16	27	18	3
+Ofu	Samoa	12.9	1.111	494	0.4	0.16	22	18	1
+Nuutele	Samoa	1.1	0.041	170	2.8	7.84	3	1	0
+Nuulua	Samoa	0.3	-0.523	77	2.8	7.84	1	0	0
+Madeira	Madeira	755	2.878	1850	4.6	21.16	106	88	75
+Porto Santo	Madeira	40	1.602	517	14	196	62	59	52
+Desertas	Madeira	15	1.176	442	5.01	25.1	29	26	11
+Tristan da Cunha 	Tristan da Cunha 	96	1.982	2060	0.2	0.04	4	4	0
+Inaccessible 	Tristan da Cunha 	14	1.146	600	4	16	11	11	1
+Nightingale	Tristan da Cunha 	4	0.602	350	18	324	5	5	1
+Gough	Tristan da Cunha 	65	1.813	910	5	25	6	6	0
+Tahiti	Society	1045	3.019	2241	1.19	1.42	53	NA	NA
+Moorea	Society	142	2.152	1207	1.72	2.96	29	NA	NA
+Raiatea	Society	171	2.233	1017	2.75	7.56	48	NA	NA
+Huahine	Society	75	1.875	669	3.08	9.49	20	NA	NA
+Tahaa	Society	90	1.954	590	3.2	10.24	16	NA	NA
+Bora Bora	Society	30	1.477	727	3.45	11.9	16	NA	NA
